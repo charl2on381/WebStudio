@@ -1,4 +1,3 @@
-Web Studio
 Web Studio Web Page Mobile-first approach: Prioritizing the design and development of the mobile version of a website before creating versions for tablets and desktops ensures that the most important content is accessible on smaller screens. This approach acknowledges the prevalence of mobile devices in accessing the internet.
 
 Optimization for mobile: Ensuring that a website is optimized for mobile devices involves several factors:
